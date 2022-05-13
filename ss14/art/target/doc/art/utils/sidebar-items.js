@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["mix","Combines two primary colors in equal amounts to create a secondary color. 2つの主色を同じ割合で混合し、副色にする"]]});

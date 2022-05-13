@@ -1,0 +1,1 @@
+/Users/ta.nakamura/workspace/na9amura/tutorials/rust/ss14/add/target/debug/adder: /Users/ta.nakamura/workspace/na9amura/tutorials/rust/ss14/add/add-one/src/lib.rs /Users/ta.nakamura/workspace/na9amura/tutorials/rust/ss14/add/add-two/src/lib.rs /Users/ta.nakamura/workspace/na9amura/tutorials/rust/ss14/add/adder/src/main.rs
